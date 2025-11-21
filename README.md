@@ -3,7 +3,7 @@ Adding a data wrangling section to my portfolio!
 
 ## Project Overview
 
-This project provides a comprehensive data quality and cleaning of the historical UFO Sightings dataset from Kaggle. The core goal was to implement robust preprocessing techniques to transform raw, inconsistent data into a high-quality, standardized asset ready for geographic, time-series, and categorical analysis.
+This project provides a comprehensive data quality and cleaning of the historical UFO Sightings dataset from Kaggle. The core goal was to implement robust preprocessing techniques to transform raw, inconsistent data into a high-quality, standardised asset ready for geographic, time-series, and categorical analysis.
 
 ## Objective
 
@@ -23,6 +23,6 @@ This project provides a comprehensive data quality and cleaning of the historica
 ## Key Results 
 
 - **Global Mapping is Ready:** Coordinate cleaning and strict validation mean we can plot all sightings precisely on a world map with no errors, assuring accurate geographic analysis.
-- **The Sighting When and Where is Clean:** By cleaning and converting two date columns, we have a record to accurately note when sightings happened and when they were reported.
+- **The Sighting When and Where is Clean:** By cleaning and converting two date columns, we have a record of when sightings happened and when they were reported.
 - **Categories are Unified:** All shapes and locations are standardised, allowing for reliable grouping.
 - **The Data is Usable:** The rigorous process guaranteed that the remaining rows are complete and valid, ensuring that the analysis phase will produce trustworthy conclusions.
